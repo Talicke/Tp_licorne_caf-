@@ -1,0 +1,16 @@
+Groupe 3:
+
+Société d'aide a la réparation de meubles
+
+
+Mistoihi (Expert réparation)
+Dhanya (Modératrice)
+Vincent (Patron)
+Kevin (Expert réparation)
+
+Groupe de Développeur:
+Mistoihi(Lead Développeur)
+Dhanya (Dévelloppeur)
+Vincent(Chef de projet)
+Kevin(Développeur)
+
